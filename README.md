@@ -5,7 +5,7 @@ This is a Final project for OLCA222N014
 
 ## Group Number: 2
 
-Welcome to the repository for the "Shipped to You" e-commerce website project. This project was developed by there Group Leader, as part of Group 2 at ICCT Cainta Campus.
+Welcome to the repository for the "Shipped to You" e-commerce website project. This project was developed by their Group members, as part of Group 2 at ICCT Cainta Main Campus.
 
 ### Project Overview
 The "Shipped to You" website is an e-commerce platform designed to provide a seamless shopping experience for users seeking the latest fashion trends. Shipped To You is your go-to destination for hassle-free online shopping. Designed with convenience in mind, our user-friendly website brings the latest fashion trends right to your fingertips.
@@ -38,4 +38,4 @@ They include:
 2. Navigate to the Code folder.
 3. Open the index.html file in your web browser.
 
-Please as concern if there's any problem of the code and 
+Please as concern if there's any problem of the code.
